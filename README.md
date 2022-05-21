@@ -1,6 +1,7 @@
 ### Hello, I am Mert
 
 ### I'm a student and newbie developer
+
  📚 - I am in high school 
  💻 - I am currently studying C# Development
 
