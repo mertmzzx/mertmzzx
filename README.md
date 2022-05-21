@@ -2,6 +2,7 @@
 
 ### I'm a student and newbie developer
 📚 - I am in high school 
+
 💻 - I am currently studying C# Development
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertmzzx&show_icons=true&theme=dark)
