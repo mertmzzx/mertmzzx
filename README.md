@@ -1,6 +1,5 @@
-### Hello, I am Mert
-
-### I'm a student and newbie developer
+## Hello, I am Mert
+#### I'm a student and newbie developer
 
  📚 **-** *I am in high school*
  
@@ -12,7 +11,7 @@
 ### Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertmzzx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-###Contacts:
+### Contact me on:
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
