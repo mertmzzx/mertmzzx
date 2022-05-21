@@ -13,6 +13,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertmzzx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ###Contacts:
-[![pygame](http://img.instagram.com/p/B_LXgD0Hzgx/0.jpg)]((https://www.instagram.com/mertmzzx/)
-GET /mertmzzx/media
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwub_pwr
 
