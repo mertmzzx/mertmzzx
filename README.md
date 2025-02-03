@@ -1,35 +1,34 @@
-## Hello, I am Mert
-#### I'm a student and newbie developer
+## Hello,
+#### My name is Mert and I am currently a first year student in Sofia, Bulgaria.
 
- 📚 **-** *I am in high school*
+ 🏛️ **-** *Technical University - Sofia*
  
- 💻 **-** *I am currently studying C# Development*
+ 💻 **-** *Computer and Software Engineering*
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertmzzx&show_icons=true&theme=dark)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertmzzx&show_icons=true&theme=dark)--->
 
-### Programming languages:
+### Programming languages and Tools:
 <p>
-  <img src="https://img.shields.io/badge/C--Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<!--<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> --->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 
 </p>
 
 
+
 ### Contact me on:
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="linkedin.com/in/mert-myumyun-0a018334b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <a href="https://www.instagram.com/mertmzzx/">  
 <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
  </a>
-  <a href="https://twitter.com/mertmzzx">
+ <!--- <a href="https://twitter.com/mertmzzx">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> 
 <a href="reddit.com/user/B3asTwe)">
     <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
 
