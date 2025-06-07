@@ -1,5 +1,5 @@
 ## Hello,
-#### My name is Mert and I am currently a first year student in Sofia, Bulgaria.
+#### My name is Mert and I am currently a student in Sofia, Bulgaria.
 
  🏛️ **-** *Technical University - Sofia*
  
