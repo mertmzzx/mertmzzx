@@ -18,7 +18,7 @@
 
 ### Contact me on:
 <div id="badges">
-  <a href="linkedin.com/in/mert-myumyun-0a018334b">
+  <a href="https://www.linkedin.com/in/mertmzzx/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <a href="https://www.instagram.com/mertmzzx/">  
